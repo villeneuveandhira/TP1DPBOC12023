@@ -9,7 +9,6 @@ dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka
 Aamiin.<br/>
 
 # TP1DPBOC12023
-
 Catatan:
 -	Diperbolehkan menambah atribut / properti dan metode baru.
 -	Buatlah Class Diagram dari desain yang telah dirancang, serta berikan penjelasannya!
@@ -23,7 +22,8 @@ Challenge (0 - 25 poin):
 	Sebagai contoh, pengurus DPM tidak bisa memberi masukan sebelum ketua BEM melaksanakan prokernya,
 	atau dosen yang tidak bisa memberi nilai sebelum asisten memberikan tugas.
 
-Penjelasan:
+# PENJELASAN
+Alasan:
 1.	Hubungan 'Mahasiswa' dan 'Dosen' dengan 'Human' adalah inheritance:
 	-	Secara objek sama, sesama manusia.
 	-	Atribut yang digunakan sama, yaitu nama dengan jenis kelamin.
