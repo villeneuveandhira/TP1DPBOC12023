@@ -1,3 +1,13 @@
+# DATA DIRI
+NIM : 2108067
+Nama : Villeneuve Andhira Suwandhi
+Prodi : Ilmu Komputer C1
+
+# Format Janji
+Saya Villeneuve Andhira Suwandhi NIM 2108067 mengerjakan Tugas Praktikum 1<br/>
+dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.<br/>
+Aamiin.<br/>
+
 # TP1DPBOC12023
 
 Catatan:
