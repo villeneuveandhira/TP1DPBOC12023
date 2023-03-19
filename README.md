@@ -23,6 +23,8 @@ Challenge (0 - 25 poin):
 	atau dosen yang tidak bisa memberi nilai sebelum asisten memberikan tugas.
 
 # PENJELASAN
+![UML](https://user-images.githubusercontent.com/101118033/226180927-1c0cb57a-7fef-40cd-80ac-950266e1f524.png)
+
 Alasan:
 1.	Hubungan 'Mahasiswa' dan 'Dosen' dengan 'Human' adalah inheritance:
 	-	Secara objek sama, sesama manusia.
