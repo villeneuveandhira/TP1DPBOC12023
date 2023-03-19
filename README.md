@@ -1,5 +1,5 @@
 # TP1DPBOC12023
-<br />
+
 Catatan:
 -	Diperbolehkan menambah atribut / properti dan metode baru.
 -	Buatlah Class Diagram dari desain yang telah dirancang, serta berikan penjelasannya!
@@ -8,13 +8,11 @@ Catatan:
 	kelas abstrak, interface, dan sebagainya.
 -	Batas waktu: Minggu, 19 Maret 2023
 
-<br />
 Challenge (0 - 25 poin):
 -	Buatlah interaksi antar objek dengan syarat dan batasan yang didefinisikan sendiri.
 	Sebagai contoh, pengurus DPM tidak bisa memberi masukan sebelum ketua BEM melaksanakan prokernya,
 	atau dosen yang tidak bisa memberi nilai sebelum asisten memberikan tugas.
 
-<br />
 Penjelasan:
 1.	Hubungan 'Mahasiswa' dan 'Dosen' dengan 'Human' adalah inheritance:
 	-	Secara objek sama, sesama manusia.
@@ -27,7 +25,6 @@ Penjelasan:
 	-	'Asprak' adalah mahasiswa.
 	-	Walaupun bukan dosen tapi 'Asprak' dapat membantu 'Dosen' mengajar dan memberi tugas.
 
-<br />
 Keterangan:
 -	Bahasa pemrograman, Python. Karena, mendukung multiple-inheritance selain C++ sedangkan Java tidak bisa.
 -	Atribut [peralatan] pada 'Mahasiswa' dengan 'Dosen' berbeda.
