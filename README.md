@@ -38,7 +38,7 @@ Alasan:
 	-	Walaupun bukan dosen tapi 'Asprak' dapat membantu 'Dosen' mengajar dan memberi tugas.
 
 Keterangan:
--	Bahasa pemrograman, Python. Karena, mendukung multiple-inheritance selain C++ sedangkan Java tidak bisa.
+-	Bahasa pemrograman, Python.
 -	Atribut [peralatan] pada 'Mahasiswa' dengan 'Dosen' berbeda.
 -	'Mahasiswa' mempunyai peralatan yaitu beberapa textbooks dan laptop,
 	sedangkan 'Dosen' mempunyai beberapa markers dan laptop.
